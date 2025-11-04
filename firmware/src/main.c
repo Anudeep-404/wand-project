@@ -1,1 +1,1 @@
-// Initial firmware entry point 
+// Firmware entry point 
